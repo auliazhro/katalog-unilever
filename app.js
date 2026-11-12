@@ -1,6 +1,6 @@
 // ================= KONFIGURASI GATEWAY WHATSAPP =================
 // Ganti dengan nomor WhatsApp yang ditautkan ke bot lokal Anda (format internasional: 628...)
-const waBotNumber = "628xxxxxxxxxx"; 
+const waBotNumber = "6285263798948"; 
 
 // Fungsi membuka chat WhatsApp sesuai petunjuk Modul Halaman 38
 function orderProduct(namaProduk, harga) {
